@@ -1,0 +1,2 @@
+// /foods/{city_id}
+GET http://{{host}}/api/client/v1/foods/1

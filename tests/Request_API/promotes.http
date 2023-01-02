@@ -1,0 +1,2 @@
+// /promotes/{city_id}
+http://{{host}}/api/client/v1/promotes/1

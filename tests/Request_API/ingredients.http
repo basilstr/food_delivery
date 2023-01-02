@@ -1,0 +1,4 @@
+// /ingredients/{food_id}
+GET http://{{host}}/api/client/v1/ingredients/1
+
+###
